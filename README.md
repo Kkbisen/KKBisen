@@ -1,7 +1,7 @@
 # Hi, I'm Kuber 👋
 
 🎓 **Master’s in Industrial Engineering & Management @ IIT Kharagpur**  
-💡 **Focus:** Data Science • Mathematical Optimization • Forecasting & Inventory Analytics
+💡 **Focus:** Data Science • Mathematical Optimization • Supply Chain Analytics
 
 ---
 
