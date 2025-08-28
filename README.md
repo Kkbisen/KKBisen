@@ -14,7 +14,7 @@
 ---
 
 ## 🚧 Ongoing Projects
-- **A Data-Driven Decision Framework for Predictive Maintenance and Spare Parts Ordering** – Framework integrating RUL predictions with maintenance scheduling & spare parts ordering to minimize downtime and cost.
+- **A Data-Driven Predictive Maintenence Decision Support Framework of Rotating Component** – Framework integrating RUL predictions with maintenance scheduling & spare parts ordering to minimize downtime and cost.
 
 ---
 
